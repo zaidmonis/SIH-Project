@@ -1,7 +1,7 @@
 Application Name : Dalmia
 
 Developer Team : Skyline
-Team Members : zaid monis, Shivani Mehrotra, Shubham Aggarwal, Aanchal, Aakash Sinha.
+Team Members : Shivam Gupta, zaid monis, Shivani Mehrotra, Shubham Aggarwal, Aanchal, Aakash Sinha.
                 
 
 # SpeechText
